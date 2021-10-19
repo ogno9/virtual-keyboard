@@ -1,0 +1,48 @@
+* {
+    font-family: "Kumbh Sans", sans-serif;
+}
+
+body {
+    margin: 0;
+    width: 1116px;
+    height: 1070px;
+}
+h1 {
+    color: #50C878;
+    position: relative;
+    top: 10px;
+    left: 150px;
+    font-size: 3rem;
+
+}
+
+textarea {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    left: 700px;
+}
+
+.features {
+    position: relative;
+    left: 50px;
+    top: 200px;
+}
+
+.features-list {
+    position: relative;
+    left: 70px;
+    top: 200px;
+}
+
+.use-list {
+    position: relative;
+    left: 70px;
+    top: 220px;
+}
+
+.how-to-use {
+    position: relative;
+    left: 50px;
+    top: 220px;
+}
